@@ -1,0 +1,30 @@
+{
+  "info": {
+    "_postman_id": "06afda0d-1c82-4556-8158-80fb201ab440",
+    "name": "API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "id": "ab7e9b2d-4ffc-4e5c-8b7b-800b0d817573",
+        "type": "text/javascript",
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "id": "bd9a5717-58e3-4649-8efb-86549e5b901c",
+        "type": "text/javascript",
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ]
+}
