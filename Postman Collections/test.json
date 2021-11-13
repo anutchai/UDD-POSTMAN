@@ -4,7 +4,21 @@
     "name": "API",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": [],
+  "item": [
+    {
+      "name": "New Request",
+      "id": "434bd27f-7ad2-4b5d-b763-e5ab1194a2b8",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": null
+      },
+      "response": []
+    }
+  ],
   "event": [
     {
       "listen": "prerequest",
