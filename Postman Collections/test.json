@@ -14,7 +14,7 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": null
+        "url": "www.google.com"
       },
       "response": []
     }
